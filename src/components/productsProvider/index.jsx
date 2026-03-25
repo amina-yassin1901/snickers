@@ -56,8 +56,7 @@ function ProductProvider({ children }) {
         deleteFromCart,
       }}
     >
-      {" "}
-      {children}{" "}
+      {children}
     </ProductsContext.Provider>
   );
 }
