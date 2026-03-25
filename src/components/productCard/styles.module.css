@@ -23,6 +23,10 @@
   border: 1px solid rgba(104, 102, 102, 0.5);
   color: #000;
 }
+.button:hover {
+  background-color: #03060f;
+  color: #fff;
+}
 .title {
   margin-top: 32px;
   margin: 42px;
