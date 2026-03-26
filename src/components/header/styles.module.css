@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  background-color: #3b3c3d;
+  padding: 43px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  justify-content: end;
+  gap: 64px;
+  align-items: center;
+  font-weight: 600;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.title {
+  font-weight: 900;
+  font-size: 20px;
+  color: #fff;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1420px;
+  width: 100%;
+}
