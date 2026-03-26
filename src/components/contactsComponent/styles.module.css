@@ -1,0 +1,50 @@
+.container {
+  max-width: 1420px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 172px;
+}
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eaeaea;
+  width: 100%;
+  margin-bottom: 116px;
+}
+.list {
+  list-style: inside;
+  opacity: 0.8;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-bottom: 67px;
+}
+.find {
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 18px 65px 72px 65px;
+}
+.flex {
+  display: flex;
+  gap: 80px;
+  justify-content: start;
+  align-items: start;
+  width: 100%;
+}
+.listIcons {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin-top: 40px;
+}
+.iconTitle {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 81%;
+  color: rgba(0, 0, 0, 0.7);
+  opacity: 0.8;
+  text-align: center;
+}
